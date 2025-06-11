@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "NightEventsApp"
 include(":app")
+include(":tasksmanagerapp")
