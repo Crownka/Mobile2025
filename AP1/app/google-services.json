@@ -1,15 +1,16 @@
 {
   "project_info": {
     "project_number": "1069103430671",
+    "firebase_url": "https://investidorapp-27788-default-rtdb.firebaseio.com",
     "project_id": "investidorapp-27788",
     "storage_bucket": "investidorapp-27788.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1069103430671:android:8c1bc8a6170b3c1285f77a",
+        "mobilesdk_app_id": "1:1069103430671:android:be6c181eb334353185f77a",
         "android_client_info": {
-          "package_name": "br.ufc.quixada.investioraula"
+          "package_name": "com.example.investidorapp"
         }
       },
       "oauth_client": [],
